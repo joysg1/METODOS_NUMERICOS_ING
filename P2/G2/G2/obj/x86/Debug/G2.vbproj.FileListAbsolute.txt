@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\G2\G2\bin\Debug\G2.exe
+C:\Users\USER\Desktop\G2\G2\bin\Debug\G2.pdb
+C:\Users\USER\Desktop\G2\G2\bin\Debug\G2.xml
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.Form1.resources
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.Resources.resources
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.exe
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.xml
+C:\Users\USER\Desktop\G2\G2\obj\x86\Debug\G2.pdb

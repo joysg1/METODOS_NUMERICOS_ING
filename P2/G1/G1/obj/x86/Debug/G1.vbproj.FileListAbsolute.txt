@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\G1\G1\bin\Debug\G1.exe
+C:\Users\USER\Desktop\G1\G1\bin\Debug\G1.pdb
+C:\Users\USER\Desktop\G1\G1\bin\Debug\G1.xml
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.Form1.resources
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.Resources.resources
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.exe
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.xml
+C:\Users\USER\Desktop\G1\G1\obj\x86\Debug\G1.pdb
